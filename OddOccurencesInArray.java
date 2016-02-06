@@ -1,3 +1,8 @@
+/*
+    Odd Occurences in Array Solution
+    Run Time O(N)
+*/
+
 class Solution 
 {
     public int solution(int [] A) 
